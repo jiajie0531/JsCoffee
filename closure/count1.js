@@ -13,6 +13,6 @@ var f1 = results[0];
 var f2 = results[1];
 var f3 = results[2];
 
-console.log(f1());
-console.log(f2());
-console.log(f3());
+console.log(f1());  // 16
+console.log(f2());  // 16
+console.log(f3());  // 16
